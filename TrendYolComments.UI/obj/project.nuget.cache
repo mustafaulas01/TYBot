@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4RY7ASBFHp3L3DIlzxeVKAUpkakEeK2uF1ETM4MeCHOIeWf/KN/0HuItbQoFJ3qVUs6w+YyVlji36Jx8zBNTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\TrendYolComments\\TrendYolComments.UI\\TrendYolComments.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\Mustafa\\.nuget\\packages\\htmlagilitypack.cssselectors.netcore\\1.2.1\\htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
